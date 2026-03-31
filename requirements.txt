@@ -1,0 +1,9 @@
+torch
+torchvision
+astropy
+pytorch-msssim
+scikit-learn
+numpy
+matplotlib
+tqdm
+gdown
