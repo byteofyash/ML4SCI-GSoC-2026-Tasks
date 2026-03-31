@@ -27,6 +27,8 @@ ML4SCI-GSoC-2026-Tasks/
 
 ## Deep Learning Methodology & Results
 
+![End-to-End Pipeline Architecture](outputs/pipeline_architecture.png)
+
 ### 1. Data Preprocessing
 The `.fits` files are loaded using `astropy`. I extract the 0th index layer (1250 microns continuum), apply a square root stretch to highlight faint astronomical features, and resize the data to 128x128 for optimal processing.
 
